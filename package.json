@@ -1,0 +1,26 @@
+{
+  "name": "incidenthapi",
+  "version": "1.0.0",
+  "description": "incident system using hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiansyahTohamba/incidenthapi.git"
+  },
+  "keywords": [
+    "incident"
+  ],
+  "author": "riansyah tohamba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiansyahTohamba/incidenthapi/issues"
+  },
+  "homepage": "https://github.com/RiansyahTohamba/incidenthapi#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.3",
+    "sqlite3": "^5.1.7"
+  }
+}
