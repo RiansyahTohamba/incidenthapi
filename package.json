@@ -21,6 +21,7 @@
   "homepage": "https://github.com/RiansyahTohamba/incidenthapi#readme",
   "dependencies": {
     "@hapi/hapi": "^21.3.3",
+    "axios": "^1.6.7",
     "sqlite3": "^5.1.7"
   }
 }
